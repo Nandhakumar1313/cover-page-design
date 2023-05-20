@@ -152,8 +152,10 @@ img {
 
 ## OUTPUT:
 ### SERVER OUTPUT:
+![Screenshot (109)](https://github.com/Nandhakumar1313/cover-page-design/assets/120230694/e09fc7ec-7c48-4c94-814d-a1857f07741f)
 
 ### CLIENT OUTPUT:
+![Screenshot (107)](https://github.com/Nandhakumar1313/cover-page-design/assets/120230694/d3fe951f-a508-4bc6-b0de-340ade4d4c81)
 
 ## RESULT:
 Thus a website to display the cover page design of a book was successfully created.
